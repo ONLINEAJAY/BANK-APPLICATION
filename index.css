@@ -1,0 +1,25 @@
+.TITLE{
+    text-align: center;
+    text-decoration:underline ;
+}
+.FORMNAME{
+    text-align: center;
+}
+.BAD{
+    text-align: right;
+}
+INPUT{
+    margin-top: 10px;
+}
+label{
+    margin-top: 10PX;
+}
+select{
+    margin-top: 10PX;
+}
+.SIGN{
+    text-align: right;
+}
+body{
+    background-color: rgb(226, 161, 239);
+}
